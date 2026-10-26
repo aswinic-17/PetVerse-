@@ -1,0 +1,7 @@
+{
+  "name": "PetVerse",
+  "description": "Intelligent all-in-one pet care management web app for dogs, cats, birds, and fish with automated diet planning, vaccine schedules, health records, and AI-assisted behavioral analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
